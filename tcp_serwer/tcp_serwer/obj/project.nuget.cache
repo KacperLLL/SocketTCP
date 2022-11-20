@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wmlVGDvGJMEem23KNdBHiO0rNhsZDMJcub6JNpiSMEhJhEwFCod9AYwwY/GeEfequO9PO9Qta6yE2cvaDYFHbg==",
+  "dgSpecHash": "Co8AZSvxz4P9mvuOM7hjgzTtatdCyU0LlWGWeQ25s6etc0TX4INSFj1rcq27g9ixYMK2jWRV2LesnGJRHrfh7A==",
   "success": true,
-  "projectFilePath": "D:\\projekty\\visual studio\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj",
+  "projectFilePath": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kacper\\.nuget\\packages\\supersimpletcp\\3.0.5\\supersimpletcp.3.0.5.nupkg.sha512"
+    "C:\\Users\\kacpe\\.nuget\\packages\\supersimpletcp\\3.0.5\\supersimpletcp.3.0.5.nupkg.sha512"
   ],
   "logs": []
 }

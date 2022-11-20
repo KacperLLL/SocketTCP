@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj": {}
+    "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp client\\tcp client\\tcp client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj": {
+    "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp client\\tcp client\\tcp client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj",
-        "projectName": "tcp_serwer",
-        "projectPath": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\tcp_serwer.csproj",
+        "projectUniqueName": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp client\\tcp client\\tcp client.csproj",
+        "projectName": "tcp client",
+        "projectPath": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp client\\tcp client\\tcp client.csproj",
         "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp_serwer\\tcp_serwer\\obj\\",
+        "outputPath": "C:\\Users\\kacpe\\Documents\\GitHub\\SocketTCP\\tcp client\\tcp client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

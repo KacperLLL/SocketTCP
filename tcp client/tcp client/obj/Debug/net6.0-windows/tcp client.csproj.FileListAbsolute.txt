@@ -1,0 +1,38 @@
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.exe
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.deps.json
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.runtimeconfig.json
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.dll
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.pdb
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp_client.Form1.resources
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.dll
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\refint\tcp client.dll
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.pdb
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.genruntimeconfig.cache
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\ref\tcp client.dll
+C:\Users\kacpe\source\repos\tcp client\tcp client\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\kacpe\source\repos\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.CopyComplete
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.exe
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.deps.json
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.runtimeconfig.json
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.dll
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\tcp client.pdb
+C:\Users\Kacper\Desktop\tcp client\tcp client\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp_client.Form1.resources
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.GenerateResource.cache
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.csproj.CopyComplete
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.dll
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\refint\tcp client.dll
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.pdb
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\tcp client.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\tcp client\tcp client\obj\Debug\net6.0-windows\ref\tcp client.dll
