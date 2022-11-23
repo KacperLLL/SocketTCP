@@ -20,6 +20,7 @@ namespace tcp_client
             client.Events.Disconnected += Events_Disconnected;
             client.Events.DataReceived += Events_DataReceived;
             btnStop.Enabled = false;
+            btnConnect.Enabled = false;
         }
 
         private void Events_DataReceived(object? sender, DataReceivedEventArgs e)
@@ -63,6 +64,8 @@ namespace tcp_client
                 client.Events.DataReceived += Events_DataReceived;
 
                 client.Connect();
+                client.Send(nick.Text);
+                
                 btnSend.Enabled = true;
                 btnConnect.Enabled = false;
                 btnStop.Enabled = true ;
@@ -88,11 +91,23 @@ namespace tcp_client
 
         private void btnStop_Click(object sender, EventArgs e)
         {
-            client.Disconnect();
+            client.Send("//dys");
             btnStop.Enabled = false;
             btnSend.Enabled = false;
             btnConnect.Enabled = true;
             rData.Text = "Client disconnected!";
+        }
+
+        private void nick_TextChanged(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(nick.Text))
+            {
+                btnConnect.Enabled = true;
+            }
+            else
+            {
+                btnConnect.Enabled = false;
+            }
         }
     }
 }

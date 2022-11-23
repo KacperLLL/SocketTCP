@@ -17,3 +17,22 @@ D:\projekty\visual studio\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\refint\
 D:\projekty\visual studio\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.pdb
 D:\projekty\visual studio\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.genruntimeconfig.cache
 D:\projekty\visual studio\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\ref\tcp_serwer.dll
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\tcp_serwer.exe
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\tcp_serwer.deps.json
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\tcp_serwer.runtimeconfig.json
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\tcp_serwer.dll
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\tcp_serwer.pdb
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.csproj.AssemblyReference.cache
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.Form1.resources
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.csproj.GenerateResource.cache
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.AssemblyInfoInputs.cache
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.AssemblyInfo.cs
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.csproj.CopyComplete
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.dll
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\refint\tcp_serwer.dll
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.pdb
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\tcp_serwer.genruntimeconfig.cache
+C:\Users\kacpe\Documents\GitHub\SocketTCP\tcp_serwer\tcp_serwer\obj\Debug\net6.0-windows\ref\tcp_serwer.dll

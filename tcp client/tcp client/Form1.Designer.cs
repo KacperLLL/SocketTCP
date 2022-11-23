@@ -37,6 +37,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btnStop = new System.Windows.Forms.Button();
+            this.nick = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // rData
@@ -122,11 +124,30 @@
             this.btnStop.UseVisualStyleBackColor = true;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
+            // nick
+            // 
+            this.nick.Location = new System.Drawing.Point(489, 26);
+            this.nick.Name = "nick";
+            this.nick.Size = new System.Drawing.Size(125, 27);
+            this.nick.TabIndex = 9;
+            this.nick.TextChanged += new System.EventHandler(this.nick_TextChanged);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(489, 3);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(38, 20);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Nick";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.nick);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -155,5 +176,7 @@
         private Label label2;
         private Label label3;
         private Button btnStop;
+        private TextBox nick;
+        private Label label4;
     }
 }

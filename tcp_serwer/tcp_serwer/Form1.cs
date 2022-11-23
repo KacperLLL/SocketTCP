@@ -10,6 +10,8 @@ namespace tcp_serwer
             InitializeComponent();
         }
         SimpleTcpServer server;
+        List<string> users = new List<string>();
+        List<string> nicks = new List<string>();
 
         private void bntStart_Click(object sender, EventArgs e)
         {
@@ -23,6 +25,7 @@ namespace tcp_serwer
             bntStart.Enabled = false;
             bntSend.Enabled = true;
             btnStop.Enabled = true;
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -39,13 +42,29 @@ namespace tcp_serwer
             
             this.Invoke((MethodInvoker)delegate
             {
-                rData.Text += $"{e.IpPort}: {Encoding.UTF8.GetString(e.Data)}{Environment.NewLine}";
-                foreach(string s in clientIP.Items)
+                if(Encoding.UTF8.GetString(e.Data)=="//dys")
                 {
-                    if(e.IpPort != s)
+                    server.DisconnectClient(e.IpPort);
+                }
+
+                else if(!isUserExist(e.IpPort))
+                {
+                    users.Add(e.IpPort);
+                    nicks.Add(Encoding.UTF8.GetString(e.Data));
+                }
+                   
+                else
+                {
+                    int index = users.IndexOf(e.IpPort);
+
+                    rData.Text += $"{e.IpPort}({nicks[index]}): {Encoding.UTF8.GetString(e.Data)}{Environment.NewLine}";
+                    foreach (string s in clientIP.Items)
                     {
-                        server.Send(s, $"{e.IpPort}: " + Encoding.UTF8.GetString(e.Data));
-                    }              
+                        if (e.IpPort != s)
+                        {
+                            server.Send(s, $"{nicks[index]}: " + Encoding.UTF8.GetString(e.Data));
+                        }
+                    }
                 }
             });
         }
@@ -98,7 +117,6 @@ namespace tcp_serwer
         {
             foreach(string s in clientIP.Items)
             {
-                server.Send(s, "//dys");
                 server.DisconnectClient(s);
             }
             clientIP.Items.Clear();
@@ -108,6 +126,19 @@ namespace tcp_serwer
             bntSend.Enabled = false;
             bntStart.Enabled = true;
             rData.Text = "Server stopped!";
+        }
+
+        private bool isUserExist(string ipAdress)
+        {
+            bool isTrue = false;
+            foreach(string s in users)
+            {
+                if(s==ipAdress)
+                {
+                    isTrue = true;
+                }
+            }
+            return isTrue;
         }
     }
 }
